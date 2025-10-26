@@ -3,8 +3,7 @@
 AuraFi is a dual-collateral protocol where creators and fans jointly back creator tokens on Celo. Creators stake CELO to unlock minting stages, while fans deposit CELO to mint tokens. A creator's Aura score (derived from Farcaster activity) dynamically adjusts token value (peg) and supply caps, with forced contraction and liquidation mechanisms ensuring aligned incentives.
 
 
-# Deployed Contract Address
-
+# Deployed Contract Address : 0xCB1799Aa5A71ccB295dD9f1fD5Fc7D21A89D4E98
 
   -factory: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
   
@@ -565,4 +564,5 @@ This is an MVP implementation for demonstration and testing purposes. Contributi
 
 
 MIT
+
 

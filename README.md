@@ -6,9 +6,11 @@ AuraFi is a dual-collateral protocol where creators and fans jointly back creato
 # Deployed Contract Address
 
 
-  "factory": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
-  "oracle": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
-  "treasury": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+  -factory: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+  
+  -oracle: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+  
+  -treasury: "0x5FbDB2315678afecb367f032d93F642f64180aa3"
 
 
 ## Overview
@@ -563,3 +565,4 @@ This is an MVP implementation for demonstration and testing purposes. Contributi
 
 
 MIT
+

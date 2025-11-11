@@ -1,6 +1,6 @@
-# AuraFi - Creator Vaults
+# AuraFunn - Creator Vaults
 
-AuraFi is a dual-collateral protocol where creators and fans jointly back creator tokens on Celo. Creators stake CELO to unlock minting stages, while fans deposit CELO to mint tokens. A creator's Aura score (derived from Farcaster activity) dynamically adjusts token value (peg) and supply caps, with forced contraction and liquidation mechanisms ensuring aligned incentives.
+AuraFunn is a dual-collateral protocol where creators and fans jointly back creator tokens on Celo. Creators stake CELO to unlock minting stages, while fans deposit CELO to mint tokens. A creator's Aura score (derived from Farcaster activity) dynamically adjusts token value (peg) and supply caps, with forced contraction and liquidation mechanisms ensuring aligned incentives.
 
 
 # Deployed Contract Address : 0xCB1799Aa5A71ccB295dD9f1fD5Fc7D21A89D4E98
@@ -14,7 +14,7 @@ AuraFi is a dual-collateral protocol where creators and fans jointly back creato
 
 ## Overview
 
-AuraFi implements a creator economy protocol with the following key features:
+AuraFunn implements a creator economy protocol with the following key features:
 
 - **Dual Collateral Model**: Both creator stakes and fan deposits back the token supply, ensuring skin in the game for all participants
 - **Aura-Anchored Economics**: Token peg (CELO-per-token) and supply caps derive from verifiable Farcaster metrics, creating dynamic value tied to creator reputation
@@ -564,5 +564,6 @@ This is an MVP implementation for demonstration and testing purposes. Contributi
 
 
 MIT
+
 
 
